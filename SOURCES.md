@@ -12,7 +12,6 @@
 
 ## Imported reader APK
 
-- Package: `com.siiraj.app`
 - Version: `1.5.4`
 - Source device: Samsung S23 Ultra, serial `R5CX22FX50D`; the APK was pulled read-only and removed after extracting selected resources.
 - APK SHA-256: see `imported_reader_apk` in `manifest.json`.

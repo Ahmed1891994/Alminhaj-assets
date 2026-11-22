@@ -12,15 +12,15 @@
     },
     {
       "path": "README.md",
-      "bytes": 2202,
-      "sha256": "3099756f010344b04dd34deddb921b9790970a6caaf8e82ca0ac2982d907ce5e",
+      "bytes": 2181,
+      "sha256": "a36795225b70814d2f02da3a7b337a461aedb120c2bc87f8b36a7d8c0c050992",
       "source": "Project metadata",
       "license_note": "Project metadata"
     },
     {
       "path": "SOURCES.md",
-      "bytes": 1033,
-      "sha256": "2a9af783e625d45c76f3d5e154e8b2efca3fce2706f66e466ea1be1aa67cac25",
+      "bytes": 1005,
+      "sha256": "32a44ea1acbef2e719f6e0a184d0bb8c8171c78a75975a6d7a7980bc670e5d0f",
       "source": "Project metadata",
       "license_note": "Project metadata"
     },
@@ -36,42 +36,42 @@
       "path": "datasets/minhaj-import/quran/qcf_v1_glyphs.txt",
       "bytes": 90312,
       "sha256": "9956fbbf45e1a5432aea550f862b81d4b2704cdb504cf78ff57d261db2b12ee9",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-file license/source not embedded in APK."
     },
     {
       "path": "datasets/minhaj-import/quran/qcf_v4_glyphs.txt",
       "bytes": 89985,
       "sha256": "d973b40685463011fe3ec45fd2e218a7b34f5394ad20f495d7b5dcf60bde68e0",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-file license/source not embedded in APK."
     },
     {
       "path": "datasets/minhaj-import/quran/reciters.json",
       "bytes": 7222,
       "sha256": "841103936c96db56ac8558294284680f11aec8fdc3d912a759a9198fc0bf96f1",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-file license/source not embedded in APK."
     },
     {
       "path": "datasets/minhaj-import/quran/shamarly_line_breaks.txt",
       "bytes": 23530,
       "sha256": "128579fa109d2f202d2bd5599320e67f3f415a10e87e949b8d4b2afa1dc302bc",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-file license/source not embedded in APK."
     },
     {
       "path": "datasets/minhaj-import/quran/surahs.json",
       "bytes": 24944,
       "sha256": "eba5d9562768066e8630e93fb87cb781e0670d33d56223528173a23f0a0dc2ee",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-file license/source not embedded in APK."
     },
     {
       "path": "datasets/minhaj-import/quran/tafsir_catalog.json",
       "bytes": 2599,
       "sha256": "f32f3a0b422bf0479c878edea452927db11b3c4b2cf814d65a4651a53cc1ff3a",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-file license/source not embedded in APK."
     },
     {
@@ -86,70 +86,70 @@
       "path": "fonts/minhaj/apk/quran_amiri_quran.ttf",
       "bytes": 136920,
       "sha256": "e2a47644762d16bdfb6d33e0d8db8c6ff30beae84150ef5a705316bbd829455c",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_amiri.ttf",
       "bytes": 431116,
       "sha256": "ab391c4147d054c48976e98322ad0eefe1427aa0e0502a12a4c75d80a70cfcd7",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_digitalkhatt_v1.otf",
       "bytes": 451816,
       "sha256": "b7514173ecbcb33f0b41f3d2444416dd15cf0f43879b548b8dd06ce40f797e75",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_digitalkhatt_v2.otf",
       "bytes": 521832,
       "sha256": "0935c48269a57c9808e52dfae47864c189396452901c689977156036a72dd217",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_hafs_v22.ttf",
       "bytes": 297700,
       "sha256": "aa68bffce289b4c0ebac68e90502eb69e42356abcd1603cb2b8e99c2c723f145",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_me.ttf",
       "bytes": 459976,
       "sha256": "83d56cab9933f9e3ac1361ac0e926324a1cc70f37c3bcc5b22f62f270160b4a0",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_nastaleeq.ttf",
       "bytes": 254720,
       "sha256": "de174e33ae14cb581097940de298c8bb9cfa60f7a34d7d0ab0ba2bd5126f912c",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_qaloon.ttf",
       "bytes": 260660,
       "sha256": "38a50a628d531a0705efac1594ad8545459ab8ddbcb07744fb13ae0cbabd0578",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_surah_header.ttf",
       "bytes": 1832408,
       "sha256": "de261a309bdd42262e1a268d5ead56b6ea8366cd59124baedea3903561d7370b",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
       "path": "fonts/minhaj/apk/quran_warsh.ttf",
       "bytes": 256132,
       "sha256": "57e48b5ac7bd7c17fb1f727853376dc9fd01e49d7cfad4dc851981991159cca1",
-      "source": "Extracted from package com.siiraj.app v1.5.4, APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
+      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
       "license_note": "Per-font license/source not embedded in APK."
     },
     {
@@ -183,7 +183,6 @@
   ],
   "note": "manifest.json is not self-hashed; all other files are listed and hashed.",
   "imported_reader_apk": {
-    "package": "com.siiraj.app",
     "version": "1.5.4",
     "device": "Samsung S23 Ultra R5CX22FX50D",
     "sha256": "C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",

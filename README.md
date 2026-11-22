@@ -8,8 +8,8 @@ Assets for the Minhaj Al-Quran app, kept outside the application source so Quran
 |---|---|---|
 | `datasets/minhaj/quran_data.db.gz` | Compressed Quran page-layout database | Upstream publisher M-H-AFIFI, release v1.0.0 |
 | `fonts/minhaj/quran-page-fonts.zip` | 605 QCF page-font files, `QCF_BSML.ttf` and `QCF_P001.ttf` through `QCF_P604.ttf` | Upstream publisher M-H-AFIFI, release v1.0.0 |
-| `datasets/minhaj-import/quran/` | Quran metadata, QCF glyph text, reciter catalog, and Shamarly line-break data imported from reader APK 1.5.4 | Package `com.siiraj.app`; APK SHA-256 is recorded in `manifest.json` |
-| `fonts/minhaj/apk/` | Quran fonts imported from the same reader APK, including IndoPak/Nastaleeq, Warsh, Qalun, Hafs, and Digital Khatt fonts | Package `com.siiraj.app` |
+| `datasets/minhaj-import/quran/` | Quran metadata, QCF glyph text, reciter catalog, and Shamarly line-break data imported from a reader APK, version 1.5.4 | APK SHA-256 is recorded in `manifest.json` |
+| `fonts/minhaj/apk/` | Quran fonts imported from the same reader APK, including IndoPak/Nastaleeq, Warsh, Qalun, Hafs, and Digital Khatt fonts | Imported resources |
 | `sources/upstream-license/` | Upstream MIT license copy | Upstream publisher M-H-AFIFI |
 | `manifest.json` | Per-file byte sizes, SHA-256 hashes, source URLs, and collection details | Generated for this repository |
 
