@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ar.abdulbasitmurattal",
+    "name": "عبد الباسط عبد الصمد",
+    "englishName": "Abdul Basit Abdul Samad",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.abdulbasitmujawwad",
+    "name": "عبد الباسط (مجود)",
+    "englishName": "Abdul Basit Mujawwad",
+    "style": "Mujawwad",
+    "styleAr": "مجود",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.abdullahbasfar",
+    "name": "عبد الله بصفر",
+    "englishName": "Abdullah Basfar",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.abdullahmatroud",
+    "name": "عبد الله مطرود",
+    "englishName": "Abdullah Matroud",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.abdurrahmaansudais",
+    "name": "عبد الرحمن السديس",
+    "englishName": "Abdur-Rahman as-Sudais",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.abubakralshatri",
+    "name": "أبو بكر الشاطري",
+    "englishName": "Abu Bakr al-Shatri",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.ahmedalnufeis",
+    "name": "أحمد النفيس",
+    "englishName": "Ahmed Alnufais",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.alihajjajalsouasi",
+    "name": "علي حجاج السويسي",
+    "englishName": "Ali Hajjaj Alsouasi",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.azizalili",
+    "name": "عزيز عليلي",
+    "englishName": "Aziz Alili",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.bandarbaleela",
+    "name": "بندر بليلة",
+    "englishName": "Bandar Baleela",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.hanirifai",
+    "name": "هاني الرفاعي",
+    "englishName": "Hani ar-Rifai",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.khalidaljalil",
+    "name": "خالد الجليل",
+    "englishName": "Khalid Al-Jalil",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.mahermuaiqly",
+    "name": "ماهر المعيقلي",
+    "englishName": "Maher Al-Mu'aiqly",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.mahmoodalibana",
+    "name": "محمود علي البنا",
+    "englishName": "Mahmood Ali Al-Bana",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.husary",
+    "name": "محمود خليل الحصري",
+    "englishName": "Mahmoud Khalil Al-Husary",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.husarymujawwad",
+    "name": "الحصري (مجود)",
+    "englishName": "Mahmoud Al-Husary Mujawwad",
+    "style": "Mujawwad",
+    "styleAr": "مجود",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.alafasy",
+    "name": "مشاري راشد العفاسي",
+    "englishName": "Mishary Rashid Alafasy",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.tablawi",
+    "name": "محمد الطبلاوي",
+    "englishName": "Mohamed al-Tablawi",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.mostafaismaeel",
+    "name": "مصطفى إسماعيل",
+    "englishName": "Mostafa Ismaeel",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.muhammadjibreel",
+    "name": "محمد جبريل",
+    "englishName": "Muhammad Jibreel",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.minshawi",
+    "name": "محمد صديق المنشاوي",
+    "englishName": "Muhammad Siddiq Al-Minshawi",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.minshawikids",
+    "name": "المنشاوي مع الأطفال",
+    "englishName": "Minshawi with Kids",
+    "style": "Teacher / With Kids",
+    "styleAr": "المعلم (مع الأطفال)",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6185
+  },
+  {
+    "id": "ar.qatami",
+    "name": "ناصر القطامي",
+    "englishName": "Nasser Al Qatami",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.saadghamidi",
+    "name": "سعد الغامدي",
+    "englishName": "Saad al Ghamdi",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.sahlyasin",
+    "name": "سهل ياسين",
+    "englishName": "Sahl Yasin",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.shuraym",
+    "name": "سعود الشريم",
+    "englishName": "Saud Al-Shuraim",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "ayah_by_ayah",
+    "surahsCount": 0,
+    "ayahsCount": 6236
+  },
+  {
+    "id": "ar.yasseraldossari",
+    "name": "ياسر الدوسري",
+    "englishName": "Yasser ad-Dussary",
+    "style": "Murattal",
+    "styleAr": "مرتل",
+    "playbackMode": "surah_segments",
+    "surahsCount": 114,
+    "ayahsCount": 6236
+  }
+]

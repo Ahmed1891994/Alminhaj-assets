@@ -1,0 +1,128 @@
+{
+  "tag_name": "v1.0.0",
+  "name": "Siraj Quran Datasets v1.0.0",
+  "body": "<img width=\"512\" height=\"512\" alt=\"icon\" src=\"https://github.com/user-attachments/assets/4cef3d06-a89f-4337-bfd5-1e86dbe99739\" />\r\n\r\nSiraj Database of the Quran font and the Tafsir & Translation 🤍.",
+  "html_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/tag/v1.0.0",
+  "assets": [
+    {
+      "name": "ar.irab.json",
+      "size": 9880329,
+      "digest": "sha256:9cf10d8df50dfb0dc6136f85d3b1c132854acc10b1ea962da8bfc38995b6b82e",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ar.irab.json"
+    },
+    {
+      "name": "ar.jazairi.json",
+      "size": 7508923,
+      "digest": "sha256:f28f2b1706f5b3e688ed9715ba8d2b55393b0ba2dbb6e3e221c257e2abc43115",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ar.jazairi.json"
+    },
+    {
+      "name": "ar.kathir.json",
+      "size": 26066580,
+      "digest": "sha256:2f8a3af4c6a09f044ba84bcab055d3a4fb730741eb8fb066cabaeab4eb197fdc",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ar.kathir.json"
+    },
+    {
+      "name": "ar.muyassar.json",
+      "size": 2371478,
+      "digest": "sha256:182d89857cfd66d72f728dcc0a6912cf87b38682dbb8118fe1d6e69d96563c19",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ar.muyassar.json"
+    },
+    {
+      "name": "ar.qayyim.json",
+      "size": 19613562,
+      "digest": "sha256:999818b1225270977f64c7f2cb0f748764840a8ea93ae45a5bbc0690f1c15df3",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ar.qayyim.json"
+    },
+    {
+      "name": "ar.qurtubi.json",
+      "size": 32765928,
+      "digest": "sha256:84158f7e4c079797a3b2dfec471472043779ad79f4af18d5da14de675a2c0a6e",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ar.qurtubi.json"
+    },
+    {
+      "name": "en.asad.json",
+      "size": 1272929,
+      "digest": "sha256:c25c1bfc2fcd73e48a08e8ccbcfd82d751e0a8595248daaca2747481d82b44a1",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/en.asad.json"
+    },
+    {
+      "name": "en.jalalayn.json",
+      "size": 2443089,
+      "digest": "sha256:44b07d4317018642acf8f6c0423959328a7a0ddad170b5193e28e6a0b40a1f73",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/en.jalalayn.json"
+    },
+    {
+      "name": "en.kathir.json",
+      "size": 15120512,
+      "digest": "sha256:a806eac7d31db90a563fcec587d92e5b512831ab8ca813a23816bb9afd325273",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/en.kathir.json"
+    },
+    {
+      "name": "en.mukhtasar.json",
+      "size": 1907086,
+      "digest": "sha256:a119359f4268c530cd853d24baaa4b4b79a77861ee96a4d617525e8f38754d31",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/en.mukhtasar.json"
+    },
+    {
+      "name": "quran-page-fonts.zip",
+      "size": 54554047,
+      "digest": "sha256:b289ba0ffa875f57cb89edf7c0a3871d603329dff8e89955b98c291ad3778d4a",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/quran-page-fonts.zip"
+    },
+    {
+      "name": "quran_data.db.gz",
+      "size": 40249980,
+      "digest": "sha256:0e3608ceeae6f520520082fe799ed4cd0f165f8aa3a765764bdf06382207a647",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/quran_data.db.gz"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "size": 1557,
+      "digest": "sha256:fd4ddc7aa7bbcfff8e652731caf9574299d9634ed03332227943770aef44b79e",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/SHA256SUMS.txt"
+    },
+    {
+      "name": "tr.kathir.json",
+      "size": 1069805,
+      "digest": "sha256:47f6360765ebc76f1752d8db17e95c154df72b42f93b726f676ee11e6d22718d",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/tr.kathir.json"
+    },
+    {
+      "name": "tr.mukhtasar.json",
+      "size": 2028661,
+      "digest": "sha256:68a4e71660fb2ca0f9b45983f9139709cfcceceb60a681e8b204fe90fda3b87c",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/tr.mukhtasar.json"
+    },
+    {
+      "name": "tr.saadi.json",
+      "size": 8814581,
+      "digest": "sha256:75a7003fb5e19c6ad298717de4e4297c8047831b097e7b99165bc25971b99fb8",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/tr.saadi.json"
+    },
+    {
+      "name": "tr.shahin.json",
+      "size": 1083448,
+      "digest": "sha256:2eb2de2c24fa0886403f04d3de98d1f754f34009bd1a3b54735a0b50a2b0251f",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/tr.shahin.json"
+    },
+    {
+      "name": "ur.kathir.json",
+      "size": 18772407,
+      "digest": "sha256:86aebb2f9cb2cb00bf8cdeea33c6178c306c3f0cde93ce8eb8afa1a5d2acf5a3",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ur.kathir.json"
+    },
+    {
+      "name": "ur.saadi.json",
+      "size": 14006309,
+      "digest": "sha256:cd693eab65176208e4b690b6529b1da62d1671e65c4f346fcd83ae45a3c9ec94",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ur.saadi.json"
+    },
+    {
+      "name": "ur.wahiduddin.json",
+      "size": 1483540,
+      "digest": "sha256:afdc0bf58e8cb461d0183ebccd9083382e34cc0813321d44cb5d05455062fefd",
+      "browser_download_url": "https://github.com/M-H-AFIFI/Siraj-assets/releases/download/v1.0.0/ur.wahiduddin.json"
+    }
+  ]
+}

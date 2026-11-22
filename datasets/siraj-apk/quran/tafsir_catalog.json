@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ar.muyassar",
+    "title": "التفسير الميسر",
+    "author": "مجمع الملك فهد لطباعة المصحف الشريف",
+    "language": "ar"
+  },
+  {
+    "id": "ar.kathir",
+    "title": "تفسير ابن كثير",
+    "author": "تفسير القرآن العظيم (٧٧٤ هـ)",
+    "language": "ar"
+  },
+  {
+    "id": "ar.qurtubi",
+    "title": "تفسير القرطبي",
+    "author": "الجامع لأحكام القرآن (٦٧١ هـ)",
+    "language": "ar"
+  },
+  {
+    "id": "ar.jazairi",
+    "title": "أيسر التفاسير",
+    "author": "أبو بكر جابر الجزائري",
+    "language": "ar"
+  },
+  {
+    "id": "ar.qayyim",
+    "title": "تفسير ابن القيم",
+    "author": "ابن قيم الجوزية",
+    "language": "ar"
+  },
+  {
+    "id": "ar.irab",
+    "title": "الإعراب الميسر",
+    "author": "إعراب القرآن وبيانه",
+    "language": "ar"
+  },
+  {
+    "id": "en.mukhtasar",
+    "title": "Abridged Explanation",
+    "author": "Tafsir Center / Mukhtasar",
+    "language": "en"
+  },
+  {
+    "id": "en.kathir",
+    "title": "Tafsir Ibn Kathir (En)",
+    "author": "Ibn Kathir English Translation",
+    "language": "en"
+  },
+  {
+    "id": "en.jalalayn",
+    "title": "Tafsir al-Jalalayn",
+    "author": "Jalal al-Din al-Mahalli & al-Suyuti",
+    "language": "en"
+  },
+  {
+    "id": "en.asad",
+    "title": "Muhammad Asad Translation",
+    "author": "The Message of the Qur'an",
+    "language": "en"
+  },
+  {
+    "id": "tr.saadi",
+    "title": "Tefsiru's-Sa'di",
+    "author": "Abdurrahman es-Sa'di",
+    "language": "tr"
+  },
+  {
+    "id": "tr.kathir",
+    "title": "İbn Kesir Tefsiri",
+    "author": "İbn Kesir Türkçe",
+    "language": "tr"
+  },
+  {
+    "id": "tr.mukhtasar",
+    "title": "Muhtasar Tefsir",
+    "author": "Türkçe Muhtasar",
+    "language": "tr"
+  },
+  {
+    "id": "tr.shahin",
+    "title": "Müslim Şahin Meali",
+    "author": "Türkçe Meal",
+    "language": "tr"
+  },
+  {
+    "id": "ur.kathir",
+    "title": "تفسیر ابن کثیر (اردو)",
+    "author": "علامہ عماد الدین ابن کثیر",
+    "language": "ur"
+  },
+  {
+    "id": "ur.saadi",
+    "title": "تفسیر السعدی (اردو)",
+    "author": "شیخ عبد الرحمن السعدی",
+    "language": "ur"
+  },
+  {
+    "id": "ur.wahiduddin",
+    "title": "مولانا وحید الدین خان",
+    "author": "آسان اردو ترجمہ",
+    "language": "ur"
+  }
+]
