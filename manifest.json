@@ -54,13 +54,6 @@
       "license_note": "Per-file license/source not embedded in APK."
     },
     {
-      "path": "datasets/minhaj-import/quran/shamarly_line_breaks.txt",
-      "bytes": 23530,
-      "sha256": "128579fa109d2f202d2bd5599320e67f3f415a10e87e949b8d4b2afa1dc302bc",
-      "source": "Extracted from reader APK v1.5.4; APK SHA-256 C6A7809DFA1F09AD361CED88DC1F2F13BB4B39DB476D36D8107398DA9D7ED16C",
-      "license_note": "Per-file license/source not embedded in APK."
-    },
-    {
       "path": "datasets/minhaj-import/quran/surahs.json",
       "bytes": 24944,
       "sha256": "eba5d9562768066e8630e93fb87cb781e0670d33d56223528173a23f0a0dc2ee",
